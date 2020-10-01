@@ -1,5 +1,5 @@
-Website for phpMyAdmin
-======================
+Website for futuristic phpMyAdmin 
+=================================
 
 Django code for phpMyAdmin's website.
 
